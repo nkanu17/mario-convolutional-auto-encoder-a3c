@@ -41,7 +41,7 @@ Component 2
 - You need a GPU (CUDA) to run the project, the project will not work efficiently on CPU
 - It also only on Python3
 
-## Testing 
+## Train 
 
 CAE trained models already provided, more information to follow soon
 
@@ -56,5 +56,8 @@ to run convolutional auto encoder
 
 to run sequential auto encoder
 - run python3 sequential_autoencoder.py
+
+## Results
+Coming soon
 
 
