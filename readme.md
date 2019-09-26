@@ -3,6 +3,8 @@
 The objective of this project is to test the generalization capabilities of reinforcement learning on unseen states. 
 The baseline A3C is efficient but can only be trained on individual levels
 
+The A3C implementation was inspired by vietnguyen91 github
+
 
 ## Design
 
@@ -45,9 +47,14 @@ CAE trained models already provided, more information to follow soon
 
 to run training process of Mario
 - run python3 main_learn.py
+
 to test project
 - run python3 main_test.py
+
 to run convolutional auto encoder
 - run python3 convolutional_autoencoder.py
+
 to run sequential auto encoder
 - run python3 sequential_autoencoder.py
+
+
