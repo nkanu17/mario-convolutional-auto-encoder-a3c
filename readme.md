@@ -1,7 +1,7 @@
-# Convolutional Auto-Encoders with A3C for Super Mario Bros.
+# Convolutional Auto-Encoder with A3C for Super Mario Bros.
 
 The objective of this project is to test the generalization capabilities of reinforcement learning on unseen states. 
-The baseline A3C is efficient but can only be trained on individual levels
+The baseline A3C is efficient but can only be trained on individual levels; therefore, the goal is to use pretrained Convolutional Auto-Encoder to replace part of A3C model to improve generalization capabilities and even outperform A3C training performance.
 
 The A3C implementation was inspired by vietnguyen91 github
 
